@@ -1,0 +1,5 @@
+this is version 1 of my project
+i want this to go to the commit
+heya bro how are you ?   
+m changing this file bcos m learning the git tutorials
+ this is changed now !!
